@@ -1,6 +1,5 @@
-Here’s a **README.md draft** tailored for your **Heart Disease dataset project** with Decision Tree and Random Forest tasks. You can upload this directly to GitHub alongside your Colab notebook.
 
----
+
 
 # ❤️ Heart Disease Prediction using Decision Trees & Random Forests
 
